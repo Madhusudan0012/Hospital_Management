@@ -1,7 +1,7 @@
 /* eslint-disable no-unused-vars */
 import React from 'react'
 
-function MyAppointments() {
+function Doctors() {
   return (
     <div>
       
@@ -9,4 +9,4 @@ function MyAppointments() {
   )
 }
 
-export default MyAppointments
+export default Doctors

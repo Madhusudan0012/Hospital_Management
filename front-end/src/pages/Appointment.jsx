@@ -1,12 +1,12 @@
 /* eslint-disable no-unused-vars */
 import React from 'react'
 
-function Docters() {
+function Appointment() {
   return (
     <div>
-      <h1> Docters</h1>
+      
     </div>
   )
 }
 
-export default Docters
+export default Appointment
